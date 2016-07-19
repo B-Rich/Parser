@@ -1,0 +1,1 @@
+To better demonstrate the scanner, please rename the included input file named as input_scnnr.txt into input.txt and run the Scanner.exe file to get the tokens for each line. The output (tokens) are shown both on screen and in the file called output.txt that is included in the folder (will be created if not already existing).

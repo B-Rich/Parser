@@ -1,0 +1,97 @@
+2016-04-22.00:30:18
+Line 
+read	Reserved Word: read
+ine 
+x	Identifier
+ne 
+;	Operator
+Line 4: 
+read	Reserved Word: read
+x	Identifier
+;	Operator
+Line 14: 
+----------------End of File---------------
+Line 13: 
+Line 12: 
+end	Reserved Word: end
+Line 11: 
+end	Reserved Word: end
+Line 5: 
+fact	Identifier
+:=	Assignment
+1	Number
+;	Operator
+Line 8: 
+x	Identifier
+:=	Assignment
+x	Identifier
+-	Operator
+1	Number
+Line 1: 
+read	Reserved Word: read
+x	Identifier
+;	Operator
+if	Reserved Word: if
+0	Number
+<	Operator
+x	Identifier
+then	Reserved Word: then
+fact	Identifier
+:=	Assignment
+1	Number
+;	Operator
+repeat	Reserved Word: repeat
+fact	Identifier
+:=	Assignment
+fact	Identifier
+*	Operator
+x	Identifier
+;	Operator
+x	Identifier
+:=	Assignment
+x	Identifier
+-	Operator
+1	Number
+until	Reserved Word: until
+x	Identifier
+=	Operator
+0	Number
+;	Operator
+write	Reserved Word: write
+fact	Identifier
+end	Reserved Word: end
+----------------End of File---------------
+Line 1: 
+read	Reserved Word: read
+x	Identifier
+;	Operator
+if	Reserved Word: if
+0	Number
+<	Operator
+x	Identifier
+then	Reserved Word: then
+fact	Identifier
+:=	Assignment
+1	Number
+;	Operator
+repeat	Reserved Word: repeat
+fact	Identifier
+:=	Assignment
+fact	Identifier
+*	Operator
+x	Identifier
+;	Operator
+x	Identifier
+:=	Assignment
+x	Identifier
+-	Operator
+1	Number
+until	Reserved Word: until
+x	Identifier
+=	Operator
+0	Number
+;	Operator
+write	Reserved Word: write
+fact	Identifier
+end	Reserved Word: end
+----------------End of File---------------
